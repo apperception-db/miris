@@ -4,7 +4,7 @@ package predicate
 
 import (
 	"../miris"
-	"github.com/mitroadmaps/gomapinfer/common"
+	"github.com/apperception-db/gomapinfer/common"
 )
 
 func init() {

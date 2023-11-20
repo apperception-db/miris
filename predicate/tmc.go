@@ -3,7 +3,7 @@ package predicate
 // turning movement count (TMC) queries
 
 import (
-	"github.com/mitroadmaps/gomapinfer/common"
+	"github.com/apperception-db/gomapinfer/common"
 )
 
 func init() {

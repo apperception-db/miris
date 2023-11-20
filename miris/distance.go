@@ -1,7 +1,7 @@
 package miris
 
 import (
-	"github.com/mitroadmaps/gomapinfer/common"
+	"github.com/apperception-db/gomapinfer/common"
 )
 
 func SamplePoints(track []Detection) []common.Point {
